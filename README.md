@@ -19,7 +19,7 @@ Case Study 1: Amazon Product Review Analysis
 -[Conclusion and Recommendation](conclusion-and-recommendation)
 
 PROJECT OVERVIEW
-This is a project that that is aimed that ascertaining if there is ascertaining if there is any form of gender inequality in the operations of the company with the view to balance the gender distribution if at all there is any. By meticulous analysis of the data, the company will be able to make informed decision that will enable them to confidently challenge any criticism that is confirmed to be baseless.
+This is a project that that is aimed at ascertaining if there is ascertaining if there is any form of gender inequality in the operations of the company with the view to balance the gender distribution if at all there is any. By meticulous analysis of the data, the company will be able to make informed decision that will enable them to confidently challenge any criticism that is confirmed to be baseless.
 
 ANALYSIS TOOL
 I was requested to use Power bi to execute this project and that is what I used.
