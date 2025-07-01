@@ -2,7 +2,7 @@
 
 This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa.
 
-PROJECT TITLE: DSA DATA ANALYSIS CAPSTONE PROJECT 
+## PROJECT TITLE: DSA DATA ANALYSIS CAPSTONE PROJECT 
 
 Case Study 1: Amazon Product Review Analysis 
 
@@ -10,9 +10,9 @@ Case Study 1: Amazon Product Review Analysis
 
 -[Analysis Tool](#analysis-tool)
 
--[Requirements](requirements)
+-[Dataset Description](dataset-description)
 
--[Step By Step Procedures](step-by-step-procedure)
+-[Data Wrangling and preparation](data-wrangling-and-prepartion)
 
 -[Analysis Tasks](analysis-task)
 
@@ -31,6 +31,19 @@ The dataset contains information scraped from Amazon product pages, including:
 •  Customer engagement: user reviews, titles, and content.
 •  Each row represents a unique product, with aggregated reviewer data stored as comma-separated values. 
 
+### DATA WRANGLING AND PREPARATION
+First of all, I read the instructions and requirements given to me as this will enable ascertain what is necessary and what is not. 
+
+Having read thoroughly, I opened the excel data to commence the cleaning by removing unwanted columns that are not necessary for the analysis I intend to conduct. Such columns are About phone, user name, review title, review content, img-link and product link.
+
+I created a column new column for main category considering the fact that, I noticed that there are repetitions in content and seperated by a pipe "|" symbol. Other columns created are S/N, Potential Revenue, No. of Reviews.
+
+To further clean the dataset, in the new category column, I entered the formular below to be able to extract all by the left  with the first pipe symbol as a determinant to stop.
+
+=LEFT(C2,FIND("|",C2)-1)
+C2 represents a cell in the category column. After entering the formular, press enter, then go to the fill handle and double click to replicate same for the cells below.
+
+To create space in between words, I use find and replace option, however you can use other options of your choice.
 ### ANALYSIS TASKS        
 
 Use pivot tables and calculated columns where necessary to answer the following: 
