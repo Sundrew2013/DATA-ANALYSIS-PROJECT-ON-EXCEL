@@ -27,6 +27,13 @@ I was requested to use Excel to execute this project and that is what I used.
 
 ### DATASET DESCRIPTION
 The dataset contains information scraped from Amazon product pages, including: 
-•  Product details: name, category, price, discount, and ratings 
-•  Customer engagement: user reviews, titles, and content 
-•  Each row represents a unique product, with aggregated reviewer data stored as comma-separated values 
+•  Product details: name, category, price, discount, and ratings. 
+•  Customer engagement: user reviews, titles, and content.
+•  Each row represents a unique product, with aggregated reviewer data stored as comma-separated values. 
+
+### ANALYSIS TASKS        
+
+Use pivot tables and calculated columns where necessary to answer the following: 
+
+1. What is the average discount percentage by product category? 
+
