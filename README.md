@@ -5,6 +5,7 @@ This is a project executed at the end of my data analysis course under the auspi
 PROJECT TITLE: DSA DATA ANALYSIS CAPSTONE PROJECT 
 
 Case Study 1: Amazon Product Review Analysis 
+
 -[Project Overview](#project-overview)
 
 -[Analysis Tool](#analysis-tool)
