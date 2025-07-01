@@ -18,10 +18,15 @@ Case Study 1: Amazon Product Review Analysis
 
 -[Conclusion and Recommendation](conclusion-and-recommendation)
 
-PROJECT OVERVIEW
-This is a project that that is aimed at ascertaining if there is ascertaining if there is any form of gender inequality in the operations of the company with the view to balance the gender distribution if at all there is any. By meticulous analysis of the data, the company will be able to make informed decision that will enable them to confidently challenge any criticism that is confirmed to be baseless.
+### PROJECT OVERVIEW
 
-ANALYSIS TOOL
-I was requested to use Power bi to execute this project and that is what I used.
+This is a project that is aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.s.
 
-REQUIREMENTS
+### ANALYSIS TOOL
+I was requested to use Excel to execute this project and that is what I used.
+
+### DATASET DESCRIPTION
+The dataset contains information scraped from Amazon product pages, including: 
+•  Product details: name, category, price, discount, and ratings 
+•  Customer engagement: user reviews, titles, and content 
+•  Each row represents a unique product, with aggregated reviewer data stored as comma-separated values 
