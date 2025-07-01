@@ -36,7 +36,7 @@ First of all, I read the instructions and requirements given to me as this will 
 
 Having read thoroughly, I opened the excel data to commence the cleaning by removing unwanted columns that are not necessary for the analysis I intend to conduct. Such columns are About phone, user name, review title, review content, img-link and product link.
 
-I created a column new column for main category considering the fact that, I noticed that there are repetitions in content and seperated by a pipe "|" symbol. Other columns created are S/N, Potential Revenue, No. of Reviews.
+I created a column new column for main category considering the fact that, I noticed that there are repetitions in content and seperated by a pipe "|" symbol. Other columns created are S/N (specifing a pattern by typing the first two numbers and used the fill handle to automatically fill others). Potential Revenue  was created by multiplying actual price by rating count (I did this one and then use fill handle). No. of Reviews was created by using the following formula for one cell and then the fill handle operation =LEN(","&$M705)-LEN(SUBSTITUTE(","&$M705,",",""))
 
 To further clean the dataset, in the new category column, I entered the formular below to be able to extract all by the left  with the first pipe symbol as a determinant to stop.
 
@@ -44,6 +44,8 @@ To further clean the dataset, in the new category column, I entered the formular
 C2 represents a cell in the category column. After entering the formular, press enter, then go to the fill handle and double click to replicate same for the cells below.
 
 To create space in between words, I use find and replace option, however you can use other options of your choice.
+
+
 ### ANALYSIS TASKS        
 
 Use pivot tables and calculated columns where necessary to answer the following: 
