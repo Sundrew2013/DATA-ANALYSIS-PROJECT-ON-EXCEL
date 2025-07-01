@@ -45,6 +45,7 @@ C2 represents a cell in the category column. After entering the formular, press 
 
 To create space in between words, I use find and replace option, however you can use other options of your choice.
 
+At this point, I copied all the require columns for the analysis into another sheet.
 
 ### ANALYSIS TASKS        
 
