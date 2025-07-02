@@ -86,5 +86,8 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag cate
 
 Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, No_of_Reviews column into value area and summarize by sum to enable you see the review value per product, Product_Id again into the value area but summarize by count. Considering the volume of products with the highest review, the top and bottom sections only were captured in the pivot table below.
 
+Top section of the pivot table
 ![Products with highest review](https://github.com/user-attachments/assets/023cc223-039c-49d2-aeb4-d17158556ed9)
+
+Bottom section of the pivot table.
 ![Products with highest review bottom page](https://github.com/user-attachments/assets/751a54e9-abbd-4c68-8aad-3685e5ef2158)
