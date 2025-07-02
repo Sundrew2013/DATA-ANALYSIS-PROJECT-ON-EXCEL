@@ -127,9 +127,11 @@ All products have fewer than 1000 reviews because the highest review per product
     
 13. Which categories have products with the highest discounts?
 
-    Duplicate the existing pivot table, uncheck initially checked columns, drag Price range column into rows area, Price range column into values and summarize by count. Select the pivot table and insert line chart as seen below. The are 6 in the chart because there is a tie.
+    Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, discount percentage  column into values area and summarize by sum. Select the pivot table and insert line chart as seen below. The category with the highest discount is Electronincs.
+
     
-14. Identify the top 5 products in terms of rating and number of reviews combined.
+    
+15. Identify the top 5 products in terms of rating and number of reviews combined.
 
  Duplicate the existing pivot table, uncheck initially checked columns, drag Product_Id column into rows area, Rating column and No. of Review columns into values area and summarize by sum. Select the pivot table and insert a column chart as seen below.
 
