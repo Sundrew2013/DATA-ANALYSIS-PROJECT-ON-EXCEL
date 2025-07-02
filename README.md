@@ -12,7 +12,7 @@ Case Study 1: Amazon Product Review Analysis
 
 -[Dataset Description](dataset-description)
 
--[Data Wrangling and preparation](data-wrangling-and-prepartion)
+-[Data Wrangling and Preparation](data-wrangling-and-prepartion)
 
 -[Analysis Tasks](analysis-task)
 
