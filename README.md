@@ -106,7 +106,9 @@ Bottom of the table
 
 8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
 
-Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, Rating column into value area and summarize by count to enable you get the number of products per rating. Insert Slicer and check the Rating column and increase the slicer column to three as seen in the pivot table below. Using the slicer, you only have to click on any rating and the number of product will be counted 
+Duplicate the existing pivot table, uncheck initially checked columns, drag Rating column into rows area, Product_Id column into value area and summarize by count to enable you get the number of products per rating. Select the pivot table and insert a column chart as seen below.
+
+
 
 9. What is the total potential revenue (actual_price × rating_count) by category?
 
