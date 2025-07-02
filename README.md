@@ -14,7 +14,7 @@ Case Study 1: Amazon Product Review Analysis
 
 -[Data Wrangling and Preparation](#data-wrangling-and-prepartion)
 
--[Analysis-Tasks](#analysis-task)
+-[Analysis Tasks](#analysis-tasks)
 
 ### PROJECT OVERVIEW
 
