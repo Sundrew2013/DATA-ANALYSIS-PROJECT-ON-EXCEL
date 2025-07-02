@@ -72,7 +72,11 @@ Duplicate the existing pivot table, drag category column into rows field while n
 
 4. Which products have the highest average ratings?
 
-Duplicate the existing pivot table, drag Product_id column into rows field while Rating column into value area and summarize by average. Click the filter handle in the pivot table, select value filter and choose top 10, however reduce it to top five since we need just the highest.
+Duplicate the existing pivot table, drag Product_id column into rows field while Rating column into value area and summarize by average. Click the filter handle in the pivot table, select value filter and choose top 10, however reduce it to top five since we need just the highest as seen in the chart below.
+
+![Top 5 products with highest rating](https://github.com/user-attachments/assets/eaca202d-1bef-4ef5-a433-0d127be708de)
+
+
 
 
 
