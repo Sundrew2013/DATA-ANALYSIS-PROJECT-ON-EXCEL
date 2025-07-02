@@ -112,7 +112,7 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag Prod
 
 Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, Potential revenue column into values and summarize by sum. Select the pivot table and insert line chart as seen below.
 
-    ![Potential revenue by category](https://github.com/user-attachments/assets/d51bd1e9-411f-4076-be50-25491e4819ba)
+![Potential revenue by category](https://github.com/user-attachments/assets/d51bd1e9-411f-4076-be50-25491e4819ba)
 
 10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)? 
 
