@@ -124,6 +124,9 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag Pric
 
 11. How does the rating relate to the level of discount?
 
+Correlation Analysis 
+1
+
 12. How many products have fewer than 1,000 reviews?
 All products have fewer than 1000 reviews because the highest review per product is 8. Take a look at the image in question number 6, you will notice the highest review by product is 8.
     
@@ -133,7 +136,7 @@ All products have fewer than 1000 reviews because the highest review per product
 
 ![Categories and discount](https://github.com/user-attachments/assets/bc647584-06a6-4328-a27c-5a7304c40c2c)
 
-15. Identify the top 5 products in terms of rating and number of reviews combined.
+14. Identify the top 5 products in terms of rating and number of reviews combined.
 
  Duplicate the existing pivot table, uncheck initially checked columns, drag Product_Id column into rows area, Rating column and No. of Review columns into values area and summarize by sum. Select the pivot table and insert a column chart as seen below.
 
