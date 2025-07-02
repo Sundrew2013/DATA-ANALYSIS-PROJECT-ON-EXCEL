@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a8dd7426-b095-4375-a4ae-f89840cb2019)# DATA-ANALYSIS-FINAL-PROJECT-ON-EXCEL
+# DATA-ANALYSIS-FINAL-PROJECT-ON-EXCEL
 
 This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa.
 
