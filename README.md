@@ -124,8 +124,15 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag Pric
 
 11. How does the rating relate to the level of discount?
 
-Correlation Analysis 
-1
+This has to do with Correlation Analysis 
+
+First of all, Duplicate the existing pivot table, uncheck initially checked columns, rating column into rows area, Discount percentage column into values and summarize by average. You will get the table below.
+
+
+
+Calculate the correlation coefficient between Rating and Discount percentage using the Correl function 
+
+      =CORREL(RatingRange,DiscountRange)
 
 12. How many products have fewer than 1,000 reviews?
 All products have fewer than 1000 reviews because the highest review per product is 8. Take a look at the image in question number 6, you will notice the highest review by product is 8.
