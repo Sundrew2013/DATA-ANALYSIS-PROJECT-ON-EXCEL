@@ -125,11 +125,11 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag Pric
 12. How many products have fewer than 1,000 reviews?
 All products have fewer than 1000 reviews because the highest review per product is 8.
     
-14. Which categories have products with the highest discounts?
+13. Which categories have products with the highest discounts?
 
     Duplicate the existing pivot table, uncheck initially checked columns, drag Price range column into rows area, Price range column into values and summarize by count. Select the pivot table and insert line chart as seen below. The are 6 in the chart because there is a tie.
     
-16. Identify the top 5 products in terms of rating and number of reviews combined.
+14. Identify the top 5 products in terms of rating and number of reviews combined.
 
  Duplicate the existing pivot table, uncheck initially checked columns, drag Product_Id column into rows area, Rating column and No. of Review columns into values area and summarize by sum. Select the pivot table and insert a column chart as seen below.
 
