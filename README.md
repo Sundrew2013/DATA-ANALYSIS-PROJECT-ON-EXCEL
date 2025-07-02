@@ -108,7 +108,7 @@ Bottom of the table
 
 Duplicate the existing pivot table, uncheck initially checked columns, drag Rating column into rows area, Product_Id column into value area and summarize by count to enable you get the number of products per rating. Select the pivot table and insert a column chart as seen below.
 
-
+![Distribution of product rating](https://github.com/user-attachments/assets/e5a1e4d6-4376-4e23-9ccd-fc5dab533ab1)
 
 9. What is the total potential revenue (actual_price × rating_count) by category?
 
