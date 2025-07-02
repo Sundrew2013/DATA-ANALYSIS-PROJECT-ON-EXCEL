@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-FINAL-PROJECT-ON-EXCEL
+![image](https://github.com/user-attachments/assets/a8dd7426-b095-4375-a4ae-f89840cb2019)# DATA-ANALYSIS-FINAL-PROJECT-ON-EXCEL
 
 This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa.
 
@@ -128,11 +128,23 @@ This has to do with Correlation Analysis
 
 First of all, Duplicate the existing pivot table, uncheck initially checked columns, rating column into rows area, Discount percentage column into values and summarize by average. You will get the table below.
 
+![Relationship](https://github.com/user-attachments/assets/d3e4d027-8791-49ea-9a52-1917778ffc9d)
 
 
 Calculate the correlation coefficient between Rating and Discount percentage using the Correl function 
 
       =CORREL(RatingRange,DiscountRange)
+     The answer= 0.110992008
+Interpretation of the correlation coefficient
+Close to 1: Strong positive correlation (higher rating= higher discount)
+
+close to -1: Strong negative correlation (higher rating = lower discount)
+
+close to 0: Weak or no correlation 
+
+In this case, it is a weak positive correlation.
+
+
 
 12. How many products have fewer than 1,000 reviews?
 All products have fewer than 1000 reviews because the highest review per product is 8. Take a look at the image in question number 6, you will notice the highest review by product is 8.
