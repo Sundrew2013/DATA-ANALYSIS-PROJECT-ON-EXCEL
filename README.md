@@ -53,5 +53,26 @@ At this point, I copied all the require columns for the analysis into another sh
 
 Use pivot tables and calculated columns where necessary to answer the following: 
 
-1. What is the average discount percentage by product category? 
+1. What is the average discount percentage by product category?
+   To get this result, click on a cell in the table, click on pivot table, select new worksheet and click ok. Drag category column into rows area and Discount-Perecentage into values area. Right click on any of the values in the pivot table and summarize values by average. Thereafter highlight the pivot table and select any preferred chart e.g Pie chart and format to your satisfaction. Below is the chart to show this.
+
+![Average discount percentage based on category](https://github.com/user-attachments/assets/79908fa7-f0a8-411e-8ccd-4078b0125855)
+
+2. How many products are listed under each category?
+
+Duplicate the existing pivot table , uncheck the columns checked initially, drage category column field into rows area, product-id into values area and summarize values by count. select the pivot table and insert the line chart. Below is the chart representation.
+
+![No  of Products per category](https://github.com/user-attachments/assets/d7b368a8-9adc-4555-880a-f7d6f4649946)
+
+3. What is the total number of reviews per category?
+
+Duplicate the existing pivot table, drag category column into rows field while no. of reviews column into value area and summarize by sum. Highlight the pivot table and insert line chart as shown below.
+
+![No  of Reviews per category](https://github.com/user-attachments/assets/b5a924af-3644-458c-ad0f-eb4cd45d0abe)
+
+4. Which products have the highest average ratings?
+
+Duplicate the existing pivot table, drag Product_id column into rows field while Rating column into value area and summarize by average. Click the filter handle in the pivot table, select value filter and choose top 10, however reduce it to top five since we need just the highest.
+
+
 
