@@ -96,4 +96,41 @@ Bottom section of the pivot table.
 
 Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, Discount_percentage column into value area and summarize by sum to enable you see the review value per product, Product_Id again into the value area but summarize by count. Considering the volume of products with 50% or more amounting to 662 products, only the top and bottom sections only will be captured in the pivot table image below.
 
+Top of the table
+
+![Above 50% Top](https://github.com/user-attachments/assets/ba0f400e-eb3c-47a1-9d1e-78c4cb8bc046)
+
+Bottom of the table 
+
+![Above 50% Bottom](https://github.com/user-attachments/assets/a64edca4-bd1b-4dc3-aba1-b32def9e4c3b)
+
+8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
+
+Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, Rating column into value area and summarize by count to enable you get the number of products per rating. Insert Slicer and check the Rating column and increase the slicer column to three as seen in the pivot table below. Using the slicer, you only have to click on any rating and the number of product will be counted 
+
+9. What is the total potential revenue (actual_price × rating_count) by category?
+
+Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, Potential revenue column into values and summarize by sum. Select the pivot table and insert line chart as seen below.
+
+    ![Potential revenue by category](https://github.com/user-attachments/assets/d51bd1e9-411f-4076-be50-25491e4819ba)
+
+10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)? 
+
+Duplicate the existing pivot table, uncheck initially checked columns, drag Price range column into rows area, Price range column into values and summarize by count. Select the pivot table and insert line chart as seen below.
+
+![No  of unique product per price range](https://github.com/user-attachments/assets/ac1b3c4f-686d-4a76-afff-0b49df122fae)
+
+11. How does the rating relate to the level of discount?
+
+12. How many products have fewer than 1,000 reviews?
+All products have fewer than 1000 reviews because the highest review per product is 8.
+    
+14. Which categories have products with the highest discounts?
+
+    Duplicate the existing pivot table, uncheck initially checked columns, drag Price range column into rows area, Price range column into values and summarize by count. Select the pivot table and insert line chart as seen below.
+    
+16. Identify the top 5 products in terms of rating and number of reviews combined.
+
+ Duplicate the existing pivot table, uncheck initially checked columns, drag Product_Id column into rows area, Rating column and No. of Review columns into values area and summarize by sum. Select the pivot table and insert a column chart as seen below.
+
 
