@@ -84,10 +84,16 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag cate
 
 6. Which products have the highest number of reviews? 
 
-Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, No_of_Reviews column into value area and summarize by sum to enable you see the review value per product, Product_Id again into the value area but summarize by count. Considering the volume of products with the highest review amounting to 1296, only the top and bottom sections only were captured in the pivot table below.
+Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, No_of_Reviews column into value area and summarize by sum to enable you see the review value per product, Product_Id again into the value area but summarize by count. Considering the volume of products with the highest review amounting to 1296, only the top and bottom sections only were captured in the pivot table image below.
 
 Top section of the pivot table
 ![Products with highest review](https://github.com/user-attachments/assets/023cc223-039c-49d2-aeb4-d17158556ed9)
 
 Bottom section of the pivot table.
 ![Products with highest review bottom page](https://github.com/user-attachments/assets/751a54e9-abbd-4c68-8aad-3685e5ef2158)
+
+7. How many products have a discount of 50% or more?
+
+Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, Discount_percentage column into value area and summarize by sum to enable you see the review value per product, Product_Id again into the value area but summarize by count. Considering the volume of products with 50% or more amounting to 662 products, only the top and bottom sections only will be captured in the pivot table image below.
+
+
