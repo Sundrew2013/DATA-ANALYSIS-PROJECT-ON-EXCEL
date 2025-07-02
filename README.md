@@ -72,11 +72,17 @@ Duplicate the existing pivot table, drag category column into rows field while n
 
 4. Which products have the highest average ratings?
 
-Duplicate the existing pivot table, drag Product_id column into rows field while Rating column into value area and summarize by average. Click the filter handle in the pivot table, select value filter and choose top 10, however reduce it to top five since we need just the highest as seen in the chart below.
+Duplicate the existing pivot table,  uncheck initially checked columns, drag Product_id column into rows field while Rating column into value area and summarize by average. Click the filter handle in the pivot table, select value filter and choose top 10, however reduce it to top five since we need just the highest as seen in the chart below.
 
 ![Top 5 products with highest rating](https://github.com/user-attachments/assets/eaca202d-1bef-4ef5-a433-0d127be708de)
 
+5. What is the average actual price vs the discounted price by category?
 
+Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, Actual price and discounted price column into value area and summarize by average. Select the pivot table and insert column chart as seen below.
 
+![Average price vs discount price by category](https://github.com/user-attachments/assets/c9a90789-1ef3-4c4c-87a3-a94568167caf)
 
+6. Which products have the highest number of reviews? 
+
+Duplicate the existing pivot table, uncheck initially checked columns, drag Product_id column into rows area, No_of_Reviews column into value area and summarize by count. Select the pivot table and insert column chart as seen below.
 
