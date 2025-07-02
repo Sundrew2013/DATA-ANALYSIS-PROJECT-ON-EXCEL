@@ -10,13 +10,13 @@ Case Study 1: Amazon Product Review Analysis
 
 -[Analysis Tool](#analysis-tool)
 
--[Dataset Description](dataset-description)
+-[Dataset Description](#dataset-description)
 
--[Data Wrangling and Preparation](data-wrangling-and-prepartion)
+-[Data Wrangling and Preparation](#data-wrangling-and-prepartion)
 
--[Analysis Tasks](analysis-task)
+-[Analysis Tasks](#analysis-task)
 
--[Conclusion and Recommendation](conclusion-and-recommendation)
+-[Conclusion and Recommendation](#conclusion-and-recommendation)
 
 ### PROJECT OVERVIEW
 
