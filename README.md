@@ -38,7 +38,7 @@ Having read thoroughly, I opened the excel data to commence the cleaning by remo
 
 I created a column new column for main category considering the fact that, I noticed that there are repetitions in content and seperated by a pipe "|" symbol. Other columns created are S/N (specifing a pattern by typing the first two numbers and used the fill handle to automatically fill others). Potential Revenue  was created by multiplying actual price by rating count (I did this one and then use fill handle). No. of Reviews was created by using the formula below for one cell and then the fill handle operation 
 
-=LEN(","&$M705)-LEN(SUBSTITUTE(","&$M705,",",""))
+      =LEN(","&$M705)-LEN(SUBSTITUTE(","&$M705,",",""))
 
 To further clean the dataset, in the new category column, I entered the formular below to be able to extract all by the left  with the first pipe symbol as a determinant to stop.
 
