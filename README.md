@@ -123,7 +123,7 @@ Duplicate the existing pivot table, uncheck initially checked columns, drag Pric
 11. How does the rating relate to the level of discount?
 
 12. How many products have fewer than 1,000 reviews?
-All products have fewer than 1000 reviews because the highest review per product is 8.
+All products have fewer than 1000 reviews because the highest review per product is 8. Take a look at the image in question number 6, you will notice the highest review by product is 8.
     
 13. Which categories have products with the highest discounts?
 
