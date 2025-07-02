@@ -16,22 +16,23 @@ Case Study 1: Amazon Product Review Analysis
 
 -[Analysis Tasks](#analysis-task)
 
--[Conclusion and Recommendation](#conclusion-and-recommendation)
-
 ### PROJECT OVERVIEW
 
 This is a project that is aimed at analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.s.
 
 ### ANALYSIS TOOL
+
 I was requested to use Excel to execute this project and that is what I used.
 
 ### DATASET DESCRIPTION
+
 The dataset contains information scraped from Amazon product pages, including: 
 •  Product details: name, category, price, discount, and ratings. 
 •  Customer engagement: user reviews, titles, and content.
 •  Each row represents a unique product, with aggregated reviewer data stored as comma-separated values. 
 
 ### DATA WRANGLING AND PREPARATION
+
 First of all, I read the instructions and requirements given to me as this will enable ascertain what is necessary and what is not. 
 
 Having read thoroughly, I opened the excel data to commence the cleaning by removing unwanted columns that are not necessary for the analysis I intend to conduct. Such columns are About phone, user name, review title, review content, img-link and product link.
@@ -136,11 +137,12 @@ Calculate the correlation coefficient between Rating and Discount percentage usi
       =CORREL(RatingRange,DiscountRange)
      The answer= 0.110992008
 Interpretation of the correlation coefficient
+
 Close to 1: Strong positive correlation (higher rating= higher discount)
 
-close to -1: Strong negative correlation (higher rating = lower discount)
+Close to -1: Strong negative correlation (higher rating = lower discount)
 
-close to 0: Weak or no correlation 
+Close to 0: Weak or no correlation 
 
 In this case, it is a weak positive correlation.
 
