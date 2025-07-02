@@ -136,7 +136,7 @@ First of all, Duplicate the existing pivot table, uncheck initially checked fiel
 Calculate the correlation coefficient between Rating and Discount percentage using the Correl function 
 
       =CORREL(RatingRange,DiscountRange)
-     The answer= 0.110992008
+     The answer=0.110992008
 Interpretation of the correlation coefficient
 
 Close to 1: Strong positive correlation (higher rating= higher discount)
