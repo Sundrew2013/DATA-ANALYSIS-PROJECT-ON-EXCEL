@@ -156,7 +156,7 @@ All products have fewer than 1000 reviews because the highest review per product
 
     Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, discount percentage  column into valuess area and summarize by sum. Select the pivot table and insert column chart as seen below. The category with the highest discount is Electronincs.
 
-![Categories and discount](https://github.com/user-attachments/assets/bc647584-06a6-4328-a27c-5a7304c40c2c)
+![New category and discount](https://github.com/user-attachments/assets/2b81962d-7ea2-45a3-a8cf-ef99cb094511)
 
 #### 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
