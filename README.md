@@ -1,6 +1,6 @@
 # DATA-ANALYSIS-FINAL-PROJECT-ON-EXCEL
 
-![Amazon](https://github.com/user-attachments/assets/f2d52353-6ded-4f3d-b2ae-69d9e6dc6ec8)
+![Amazon new](https://github.com/user-attachments/assets/b2474013-7d34-4551-b6ea-9d1d72759571)
 
 This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa. 
 
@@ -59,19 +59,19 @@ Use pivot tables and calculated columns where necessary to answer the following:
 #### 1. What is the average discount percentage by product category?
    To get this result, click on a cell in the table, click on pivot table, select new worksheet and click ok. Drag category column into rows area and Discount-Perecentage into valuess area. Right click on any of the valuess in the pivot table and summarize valuess by average. Thereafter highlight the pivot table and select any preferred chart e.g Pie chart and format to your satisfaction. Below is the chart to show this.
 
-![Average discount percentage based on category](https://github.com/user-attachments/assets/79908fa7-f0a8-411e-8ccd-4078b0125855)
+![Pie new](https://github.com/user-attachments/assets/13a791e5-8be7-4df1-9b33-41af0e2545ad)
 
 #### 2. How many products are listed under each category?
 
-Duplicate the existing pivot table , uncheck the fields checked initially, drag category  field into rows area, product_id field into valuess area and summarize valuess by count. select the pivot table and insert the line chart. Below is the chart representation.
+Duplicate the existing pivot table , uncheck the fields checked initially, drag category  field into rows area, product_id field into valuess area and summarize valuess by count. select the pivot table and insert the bar chart. Below is the chart representation.
 
-![No  of Products per category](https://github.com/user-attachments/assets/d7b368a8-9adc-4555-880a-f7d6f4649946)
+![New product per category](https://github.com/user-attachments/assets/ed6856d4-6795-4515-a11b-8900651b40c6)
 
 #### 3. What is the total number of reviews per category?
 
-Duplicate the existing pivot table, uncheked the fields initially checked, drag category field into rows area while no. of reviews field into values area and summarize by sum. Highlight the pivot table and insert line chart as shown below.
+Duplicate the existing pivot table, uncheked the fields initially checked, drag category field into rows area while no. of reviews field into values area and summarize by sum. Highlight the pivot table and insert chart as shown below.
 
-![No  of Reviews per category](https://github.com/user-attachments/assets/b5a924af-3644-458c-ad0f-eb4cd45d0abe)
+![New no  of reviews per category](https://github.com/user-attachments/assets/870ceb58-9cda-4b24-883a-61c38182d310)
 
 #### 4. Which products have the highest average ratings?
 
@@ -81,9 +81,9 @@ Duplicate the existing pivot table,  uncheck initially checked field, drag Produ
 
 #### 5. What is the average actual price vs the discounted price by category?
 
-Duplicate the existing pivot table, uncheck initially checked fields, drag category field into rows area, Actual price and discounted price field into values area and summarize by average. Select the pivot table and insert column chart as seen below.
+Duplicate the existing pivot table, uncheck initially checked fields, drag category field into rows area, Actual price and discounted price field into values area and summarize by average. Select the pivot table and insert chart as seen below.
 
-![Average price vs discount price by category](https://github.com/user-attachments/assets/c9a90789-1ef3-4c4c-87a3-a94568167caf)
+![new average price vs discount price](https://github.com/user-attachments/assets/f632d44c-766e-4360-9a23-8d02c1c47568)
 
 #### 6. Which products have the highest number of reviews? 
 
@@ -111,21 +111,21 @@ Bottom of the table
 
 #### 8. What is the distribution of product ratings (e.g., how many products are rated 3.0, 4.0, etc.)?
 
-Duplicate the existing pivot table, uncheck initially checked fields, drag Rating field into rows area, Product_Id field into values area and summarize by count to enable you get the number of products per rating. Select the pivot table and insert a column chart as seen below.
+Duplicate the existing pivot table, uncheck initially checked fields, drag Rating field into rows area, Product_Id field into values area and summarize by count to enable you get the number of products per rating. Select the pivot table and insert a chart as seen below.
 
 ![Distribution of product rating](https://github.com/user-attachments/assets/e5a1e4d6-4376-4e23-9ccd-fc5dab533ab1)
 
 #### 9. What is the total potential revenue (actual_price × rating_count) by category?
 
-Duplicate the existing pivot table, uncheck initially checked field, drag category column into rows area, Potential revenue field into values area and summarize by sum. Select the pivot table and insert line chart as seen below.
+Duplicate the existing pivot table, uncheck initially checked field, drag category column into rows area, Potential revenue field into values area and summarize by sum. Select the pivot table and insert column chart as seen below.
 
-![Potential revenue by category](https://github.com/user-attachments/assets/d51bd1e9-411f-4076-be50-25491e4819ba)
+![New potential](https://github.com/user-attachments/assets/fd642548-8b43-455c-8c23-c341c14eb4f0)
 
 #### 10. What is the number of unique products per price range bucket (e.g., <₹200, ₹200–₹500, >₹500)? 
 
-Duplicate the existing pivot table, uncheck initially checked fields, drag Price range field into rows area, Price range field into values and summarize by count. Select the pivot table and insert line chart as seen below.
+Duplicate the existing pivot table, uncheck initially checked fields, drag Price range field into rows area, Price range field into values and summarize by count. Select the pivot table and insert column chart as seen below.
 
-![No  of unique product per price range](https://github.com/user-attachments/assets/ac1b3c4f-686d-4a76-afff-0b49df122fae)
+![new unique](https://github.com/user-attachments/assets/7c5321ae-bd69-40f7-9c8a-eb12646da6b9)
 
 #### 11. How does the rating relate to the level of discount?
 
@@ -154,7 +154,7 @@ All products have fewer than 1000 reviews because the highest review per product
     
 #### 13. Which categories have products with the highest discounts?
 
-    Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, discount percentage  column into valuess area and summarize by sum. Select the pivot table and insert line chart as seen below. The category with the highest discount is Electronincs.
+    Duplicate the existing pivot table, uncheck initially checked columns, drag category column into rows area, discount percentage  column into valuess area and summarize by sum. Select the pivot table and insert column chart as seen below. The category with the highest discount is Electronincs.
 
 ![Categories and discount](https://github.com/user-attachments/assets/bc647584-06a6-4328-a27c-5a7304c40c2c)
 
@@ -162,6 +162,7 @@ All products have fewer than 1000 reviews because the highest review per product
 
  Duplicate the existing pivot table, uncheck initially checked fields, drag Product_Id column into rows area, Rating column and No. of Review columns into values area and summarize by sum. Select the pivot table and insert a column chart as seen below.
 
-![Top 5 products based on rating and no  of reviews](https://github.com/user-attachments/assets/ca417da9-5c9b-426e-a213-9e8ca79a6d81)
+![New top 5 products](https://github.com/user-attachments/assets/615316ab-3eb4-45f5-8f14-5ace92b7e97e)
+
 
 
