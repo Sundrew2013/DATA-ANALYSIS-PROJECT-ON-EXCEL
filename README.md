@@ -163,3 +163,5 @@ All products have fewer than 1000 reviews because the highest review per product
  Duplicate the existing pivot table, uncheck initially checked fields, drag Product_Id column into rows area, Rating column and No. of Review columns into values area and summarize by sum. Select the pivot table and insert a column chart as seen below.
 
 ![Top 5 products based on rating and no  of reviews](https://github.com/user-attachments/assets/ca417da9-5c9b-426e-a213-9e8ca79a6d81)
+
+
