@@ -1,6 +1,6 @@
 # DATA-ANALYSIS-FINAL-PROJECT-ON-EXCEL
 
-![Excel Dash Board](https://github.com/user-attachments/assets/9182d22b-3fe5-45a9-a328-f0ffbac77515)
+![Amazon](https://github.com/user-attachments/assets/f2d52353-6ded-4f3d-b2ae-69d9e6dc6ec8)
 
 This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa.
 
