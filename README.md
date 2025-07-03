@@ -2,7 +2,7 @@
 
 ![Amazon](https://github.com/user-attachments/assets/f2d52353-6ded-4f3d-b2ae-69d9e6dc6ec8)
 
-This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa.
+This is a project executed at the end of my data analysis course under the auspices of Digital Skill Up Africa. 
 
 ## PROJECT TITLE: DSA DATA ANALYSIS CAPSTONE PROJECT 
 
